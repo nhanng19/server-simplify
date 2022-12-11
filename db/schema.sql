@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS simplify;
+CREATE DATABASE simplify;
